@@ -15,5 +15,6 @@ Read this tutorial https://github.com/vysheng/tg we use this configurationn.
 #Utilization
 "Lua is a powerful, fast, lightweight, embeddable scripting language."
 
-- Create a file action.lua
-sudo nano /home/pi/tg/action.lua
+Create a file action.lua
+
+<code>sudo nano /home/pi/tg/action.lua
