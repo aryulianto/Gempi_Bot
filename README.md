@@ -1,4 +1,4 @@
-# Telegram_Bot
+# Gempi_Bot
 A telegram bot on my Raspberry Pi
 
 #You need
